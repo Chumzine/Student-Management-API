@@ -123,17 +123,17 @@ To run this application, follow these steps:
 
 <br />
 
-[![Student Management API Screenshot 1][student-management-screenshot-1]](https://github.com/Chumzine/Student-Management-API/blob/master/images/Student_Management_API.png)
+[![Student Management API Screenshot 1][student-management-screenshot-1]](https://github.com/Chumzine/Student-Management-API/blob/master/images/Student-Management-API(1).png)
 
 <br/>
 <br />
 
-[![Student Management API Screenshot 2][student-management-screenshot-2]](https://github.com/Chumzine/Student-Management-API/blob/master/images/Student_Management_API.png)
+[![Student Management API Screenshot 2][student-management-screenshot-2]](https://github.com/Chumzine/Student-Management-API/blob/master/images/Student-Management-API.png)
 
 <br/>
 <br />
 
-[![Student Management API Screenshot 3][student-management-screenshot-3]](https://github.com/Chumzine/Student-Management-API/blob/master/images/Student_Management_API.png)
+[![Student Management API Screenshot 3][student-management-screenshot-3]](https://github.com/Chumzine/Student-Management-API/blob/master/images/Student-Management-API2.png)
 
 <br/>
 
