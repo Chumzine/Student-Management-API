@@ -123,17 +123,17 @@ To run this application, follow these steps:
 
 <br />
 
-![Student Management API Screenshot 1](https://github.com/Chumzine/Student-Management-API/blob/master/images/Student-Management-API(1).png)
+[![Student Management API Screenshot 1][student-management-api-1]](https://github.com/Chumzine/Student-Management-API/blob/master/images/Student-Management-API(1).png)
 
 <br/>
 <br />
 
-![Student Management API Screenshot 2](https://github.com/Chumzine/Student-Management-API/blob/master/images/Student-Management-API.png)
+[![Student Management API Screenshot 2][student-management-api-2]](https://github.com/Chumzine/Student-Management-API/blob/master/images/Student-Management-API.png)
 
 <br/>
 <br />
 
-![Student Management API Screenshot 3](https://github.com/Chumzine/Student-Management-API/blob/master/images/Student-Management-API2.png)
+[![Student Management API Screenshot 3][student-management-api-3]](https://github.com/Chumzine/Student-Management-API/blob/master/images/Student-Management-API2.png)
 
 <br/>
 
@@ -196,3 +196,6 @@ Project Link: [https://github.com/Chumzine/Student-Management-API](https://githu
 [python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
 [sqlite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
+[student-management-api-1]: https://github.com/Chumzine/Student-Management-API/blob/master/images/Student-Management-API(1).png
+[student-management-api-2]: https://github.com/Chumzine/Student-Management-API/blob/master/images/Student-Management-API.png
+[student-management-api-3]: https://github.com/Chumzine/Student-Management-API/blob/master/images/Student-Management-API2.png
